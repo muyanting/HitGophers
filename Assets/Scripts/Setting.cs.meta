@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 871ccf38e135ebc48b691edde631417a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gopher: {fileID: 6608843469769122134, guid: 7c36c953927003646b05cd59cb94cfb8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
